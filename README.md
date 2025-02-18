@@ -31,3 +31,5 @@ This project leverages **Power BI** to analyze and visualize key insights from r
 ✔ **Storage Efficiency & ROI** – Evaluates storage performance and return on investment.  
 ✔ **Capacity Analysis** – Compares minimum vs. average installed capacities.  
 ✔ **Formatted Data View** – Provides conditional formatting for easy insights.  
+
+![image](https://github.com/user-attachments/assets/819ab77c-c9c0-4fbc-89ba-d875b4963996) ![image](https://github.com/user-attachments/assets/b96ef0a3-41f3-421b-abfb-35a633a71b81)
